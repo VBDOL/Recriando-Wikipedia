@@ -24,14 +24,14 @@ Durante o desenvolvimento do projeto, diversas melhorias foram aplicadas, inclui
 
 ## **Estrutura do Projeto**
 
-/Recriando-Wikipedia
-│── /assets
-│ ├── /css
-│ │ ├── style.css
-│ ├── /images
-│ │ ├── logo.png
-│ │ ├── computer.jpg
-│── index.html
+/Recriando-Wikipedia<br>
+│── /assets<br>
+│ ├── /css<br>
+│ │ ├── style.css<br>
+│ ├── /images<br>
+│ │ ├── logo.png<br>
+│ │ ├── computer.jpg<br>
+│── index.html<br>
 │── README.md
 
 
